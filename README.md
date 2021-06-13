@@ -1,2 +1,2 @@
 # IBM_DataScience
-Data of cours in courseira of IBM data science
+Data of course in coursera of IBM data science
